@@ -1,2 +1,2 @@
 # Chain-Reaction
-C++ 2 player implementation of the popular game
+2 player implementation of the popular game Chain Reaction in C++
